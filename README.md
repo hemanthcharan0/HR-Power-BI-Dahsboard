@@ -116,7 +116,7 @@ python analyze_attrition.py
 P Hemanth Charan
 Computer Science Engineering
 Lovely Professional University, Phagwara, Punjab
-Email: hemanthcharan@email.com
+Gmail: p.hemanthcharan0@gmail.com
 
 📄 License
 text
